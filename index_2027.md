@@ -1,13 +1,12 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Eric Poole's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Eric Poole
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="thatonepoole@gmail.com">thatonepoole@gmail.com</a>
+<!-- | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> -->
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -15,69 +14,52 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.8 GPA
 
 
 ## Related Experience
 
-### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2023 - September 2023`
+__Church Of Jesus Christ__, Riverton, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Will work in React to build website.
+- Will work in backend in C#
+- Worked with other to build healthy work environment.
 
-### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2022 – September 2022`
+__BYU Pathways__, _Degree Planner_ Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Automated responsibilities with python increasing productivity. Developed software too open links and interact with the information to increase productivity.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Audited more than 100 of student’s degrees. When reviewed got above 98% on all degree audits. Also shown as a fast auditor often getting the most done in a day.
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Mentored/Trained new hires. Came up with over 30 minutes of video training. Designed a Microsoft Sh arePoint, to hold all trainings for Degree Audit team.
 
-### Data Science Consulting Team
+- Conducted work in IT and in charge of a specific hard to learn software. CRM or software as a dashboard for productivity.
 
-`January 2027 - April 2027`
-__Imagine Learning__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`June 2020 – September 2021`
+__Dewey Pest Control__, _Sales Associate_, Redlands, CA
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Sold contracts in my second summer worth $80,000 all in reoccurring sales. Worked completely commission based.
+- Mentored sales associates increasing the number of their contracts sold. I helped to increase sales by more than 50%, by helping them to see where they could improve. Both in team meetings, and in one-on-one sessions. 
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+
+
+
+
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
 
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2021`
+__Service Missionary__, Salt Lake City, UT
 
 
 

@@ -1,7 +1,8 @@
 ---
-layout: resume
+layout: cv
 title: Eric Poole's Resume
 ---
+
 # Eric Poole
 
 <div id="webaddress">
@@ -11,28 +12,24 @@ title: Eric Poole's Resume
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-
 ## Education
 
 `Expected 2024`
-__Brigham Young University - Idaho__, Rexburg, ID
+**Brigham Young University - Idaho**, Rexburg, ID
 
-- 3.8 GPA
-
+- 3.8 GPA <!-- Nice --->
 
 ## Related Experience
 
-
 `April 2023 - September 2023`
-__Church Of Jesus Christ__, Riverton, UT
+**Church Of Jesus Christ**, Riverton, UT
 
 - Will work in React to build website.
 - Will work in backend in C#
 - Worked with other to build healthy work environment.
 
-
 `January 2022 – September 2022`
-__BYU Pathways__, _Degree Planner_ Rexburg, ID
+**BYU Pathways**, _Degree Planner_, Rexburg, ID
 
 - Automated responsibilities with python increasing productivity. Developed software too open links and interact with the information to increase productivity.
 
@@ -42,29 +39,17 @@ __BYU Pathways__, _Degree Planner_ Rexburg, ID
 
 - Conducted work in IT and in charge of a specific hard to learn software. CRM or software as a dashboard for productivity.
 
-
 `June 2020 – September 2021`
-__Dewey Pest Control__, _Sales Associate_, Redlands, CA
+**Dewey Pest Control**, _Sales Associate_, Redlands, CA
 
 - Sold contracts in my second summer worth $80,000 all in reoccurring sales. Worked completely commission based.
-- Mentored sales associates increasing the number of their contracts sold. I helped to increase sales by more than 50%, by helping them to see where they could improve. Both in team meetings, and in one-on-one sessions. 
-
-
-
-
-
-
+- Mentored sales associates increasing the number of their contracts sold. I helped to increase sales by more than 50%, by helping them to see where they could improve. Both in team meetings, and in one-on-one sessions.
 
 ## Service and Work History
 
-
 `2021`
-__Service Missionary__, Salt Lake City, UT
-
-
+**Service Missionary**, Salt Lake City, UT
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: March, 2023 -->
